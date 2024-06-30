@@ -1,0 +1,22 @@
+Course Learning Objectives:
+1. To understand basics of Cryptography and Network Security.
+2. To be able to secure a message over insecure channel by various means.
+3. To learn about how to maintain the Confidentiality, Integrity and Availability of a data.
+4. To understand various protocols for network security to protect against the threats in the networks.
+Course Content:
+Unit 1: (10 Contact hours)
+Introduction to security attacks, services and mechanism, introduction to cryptography - Conventional Encryption: Conventional encryption model, classical encryption techniques - substitution ciphers and transposition ciphers, cryptanalysis, stream and block ciphers ,Modern Block Ciphers: Block ciphers principals, Shannon’s theory of confusion and diffusion, fiestal structure, data encryption standard(DES), strength of DES, differential and linear crypt analysis of DES, block cipher modes of operations, triple DES, AES.
+Unit II: (8 Contact hours)
+Confidentiality using conventional encryption, traffic confidentiality, key distribution, random number generation, Introduction to graph, ring and field, prime and relative prime numbers, modular arithmetic, Fermat’s and Euler’s theorem, primality testing, Euclid’s Algorithm, Chinese Remainder theorem, discrete algorithms.
+Unit III: (7 Contact hours)
+Principles of public key crypto systems, RSA algorithm, security of RSA, key management, Diffle-Hellman key exchange algorithm, introductory idea of Elliptic curve cryptography, Elgamel encryption, Message Authentication and Hash Function: Authentication requirements, authentication functions, message authentication code, hash functions, birthday attacks, security of hash functions and MACS.
+Unit IV: (7 Contact hours)
+MD5 message digest algorithm, Secure hash algorithm (SHA), Digital Signatures: Digital Signatures - authentication protocols - digital signature standards (DSS) - proof of digital signature algorithm, Authentication Applications: Kerberos and X.509, directory authentication service, electronic mail security, pretty good privacy (PGP), S/MIME.
+Unit V: (7 Contact hours)
+IP Security: Architecture, Authentication header, Encapsulating security payloads, combining security associations, key management.
+Unit VI: (7 Contact hours)
+Web Security: Secure socket layer and transport layer security, secure electronic transaction (SET), System Security: Intruders - Viruses and related threats, IDS.
+Learning Resources
+Text books:
+1. William Stallings, “Crpyptography and Network security Principles and Practices”,
+Pearson/PHI.

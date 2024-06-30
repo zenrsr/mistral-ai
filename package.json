@@ -1,0 +1,25 @@
+{
+  "name": "mistral-ai",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "postinstall": "patch-package"
+  },
+  "devDependencies": {
+    "vite": "^5.3.1"
+  },
+  "dependencies": {
+    "@mistralai/mistralai": "^0.5.0",
+    "@supabase/supabase-js": "^2.44.2",
+    "dotenv": "^16.4.5",
+    "langchain": "^0.1.28",
+    "langsmith": "^0.1.32",
+    "lodash.set": "^4.3.2",
+    "patch-package": "^8.0.0",
+    "supabase": "^1.178.2"
+  }
+}
